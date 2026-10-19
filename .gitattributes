@@ -1,0 +1,2 @@
+# Keep the CSV files exactly as they were exported (no line-ending conversion).
+*.csv -text
